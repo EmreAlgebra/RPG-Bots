@@ -1,4 +1,0 @@
-#Sun Jan 01 10:16:03 EET 2023
-base.0=D\:\\RPG-Bots\\RPGBots\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
